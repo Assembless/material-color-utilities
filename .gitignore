@@ -31,5 +31,6 @@ build/
 # TS related
 node_modules
 typescript/dist
+typescript/tsconfig.tsbuildinfo
 
 .rollup.cache
