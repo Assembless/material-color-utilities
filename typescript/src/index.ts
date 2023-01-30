@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-export * from './blend/blend';
+export * from './blend/blend'; 
 export * from './hct/cam16';
 export * from './hct/hct';
 export * from './hct/viewing_conditions';
